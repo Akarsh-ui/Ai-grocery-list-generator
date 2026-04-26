@@ -1,6 +1,7 @@
 {
   "name": "grocery-app",
   "version": "0.1.0",
+  "description": "AI-powered grocery list generator and meal planner",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
